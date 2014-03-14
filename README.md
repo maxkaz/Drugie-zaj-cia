@@ -1,6 +1,7 @@
 Drugie-zaj-cia
 ==============
-
+Magdalena Tyde
+(http://www.youtube.com/watch?v=6A5EpqqDOdk
 **W warstwie markdown informacje.**
 [Link na Wirtualną Polskę](https://github.com/h5c3j/pspi)
 
@@ -16,5 +17,4 @@ Drugie-zaj-cia
 </body>
 </html>
 
-Magdalena Tyde
-(http://www.youtube.com/watch?v=6A5EpqqDOdk
+
