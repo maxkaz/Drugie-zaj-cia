@@ -1,4 +1,4 @@
 Drugie-zaj-cia
 ==============
 
-W warstwie markdown informacje.
+**W warstwie markdown informacje.**
