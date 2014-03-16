@@ -17,4 +17,34 @@ Magdalena Tyde
 </body>
 </html>
 
+Materiały z html (l.6)
+<!DOCTYPE html>
+<html>
+	  <head>
+        <title>Moja pierwsza strona internetowa</title>
+	  </head>
+ 
+	  <body>
+        <i> <p>Hurrah! To jest moja pierwsza strona internetowa.</p> </i>
+        <p>Jest używany przy akapitach.</p>
+        <b>Wyświetla tekst <br/>pogrubiony.</b>
+        <hr/>
+        <i><h1>Nagłówek</h1></i>
+	    <h2>Podnagłówek</h2>
+        <ul>
+          <small><h3><li>Pod-podnagłówek</li></h3</small></il>
+            <small><h3><li>Pod-pod-podnagłówek</li></h3</small></il>
+              <ol>
+                <li> Zadanie </li>
+                <li> Zadanie  kolejne</li>
+                <li> Zadanie ostatnie </li>
+                
+	   </body>
+              <ul>
+	  <li>Element 1 listy</li>
+	  <li>Element 2 listy</li>
+	</ul>
+              <h2 style="background-color:#345FF2;">Moja przyjaźń z Ryszardem G. i  z HTML</h2>
+</html>
+
 
