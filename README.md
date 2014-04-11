@@ -14,7 +14,7 @@ Magdalena Tyde
     <h3>1.Gdzież można kupić miodzio?</h3>
      <h3>2.Po co mam go kupować skoro mogę mieć za darmo?</h3>
        <h2>3.Piwo miodowe...</h3>
-       Racjonalna polska klawiatura dla programisty i typografa
+       <h4>Racjonalna polska klawiatura dla programisty i typografa</h4>
 </body>
 </html>
 
