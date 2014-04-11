@@ -15,6 +15,7 @@ Magdalena Tyde
      <h3>2.Po co mam go kupować skoro mogę mieć za darmo?</h3>
        <h2>3.Piwo miodowe...</h3>
        <h4>Racjonalna polska klawiatura dla programisty i typografa</h4>
+       [Link na klawiaturę](http://marcinwolinski.pl/keyboard/)
 </body>
 </html>
 
