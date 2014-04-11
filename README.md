@@ -17,6 +17,7 @@ Magdalena Tyde
        <h4>Racjonalna polska klawiatura dla programisty i typografa</h4>
        [Link na klawiaturę](http://marcinwolinski.pl/keyboard/)
        <h5>http://cssdeck.com/labs/237cxhvw</h5>
+       <h5> CSS flexible boxes </h5>
 </body>
 </html>
 
