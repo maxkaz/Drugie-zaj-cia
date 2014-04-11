@@ -45,6 +45,7 @@ Materiały z html (l.6)
 	  <li>Element 2 listy</li>
 	</ul>
               <h2 style="background-color:#345FF2;">Moja przyjaźń z Ryszardem G. i  z HTML</h2>
+              Racjonalna polska klawiatura dla programisty i typografa
 </html>
 
 
