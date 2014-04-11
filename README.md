@@ -14,6 +14,7 @@ Magdalena Tyde
     <h3>1.Gdzież można kupić miodzio?</h3>
      <h3>2.Po co mam go kupować skoro mogę mieć za darmo?</h3>
        <h2>3.Piwo miodowe...</h3>
+       Racjonalna polska klawiatura dla programisty i typografa
 </body>
 </html>
 
@@ -45,7 +46,7 @@ Materiały z html (l.6)
 	  <li>Element 2 listy</li>
 	</ul>
               <h2 style="background-color:#345FF2;">Moja przyjaźń z Ryszardem G. i  z HTML</h2>
-              Racjonalna polska klawiatura dla programisty i typografa
+              
 </html>
 
 
