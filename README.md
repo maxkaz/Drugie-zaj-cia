@@ -16,7 +16,7 @@ Magdalena Tyde
        <h2>3.Piwo miodowe...</h3>
        <h4>Racjonalna polska klawiatura dla programisty i typografa</h4>
        [Link na klawiaturę](http://marcinwolinski.pl/keyboard/)
-       http://cssdeck.com/labs/237cxhvw
+       <h5>http://cssdeck.com/labs/237cxhvw</h5>
 </body>
 </html>
 
